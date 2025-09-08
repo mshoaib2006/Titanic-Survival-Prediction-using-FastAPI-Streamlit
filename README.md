@@ -88,11 +88,11 @@ Key transformations:
 
 - **Model Used**: Random Forest Classifier  
 - **Hyperparameters**:
-  - `n_estimators=100`
-  - `max_depth=5`
-  - `min_samples_split=5`
-  - `min_samples_leaf=2`
-  - `random_state=42`
+  - n_estimators=100`
+  - max_depth=5`
+  - min_samples_split=5`
+  - min_samples_leaf=2`
+  - random_state=42`
 
 ```python
 model.fit(X_train, y_train)
