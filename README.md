@@ -51,7 +51,7 @@ Key visualizations and insights:
 
 2. **Survival Distribution**  
 
-   ![Survival Distribution](Titanic_Survival_Predictor/screenshots/eda/Survival _Distribution.png)
+   ![Survival Distribution](Titanic_Survival_Predictor/screenshots/eda/Survival_Distribution.png)
 
 3. **Survival Rate by Gender**  
 
