@@ -51,20 +51,20 @@ Key visualizations and insights:
 
 2. **Survival Distribution**  
 
-   ![Survival Distribution](screenshots/eda/Survival_Distribution.png)
+   ![Survival Distribution](Titanic_Survival_Predictor/screenshots/eda/Survival _Distribution.png)
 
 3. **Survival Rate by Gender**  
 
-   ![Survival by Gender](screenshots/eda/Survival_Rate_by_Gender.png)
+   ![Survival by Gender](Titanic_Survival_Predictor/screenshots/eda/Survival_Rate_by_Gender.png)
 
 4. **Age Distribution**  
 
-   ![Age Distribution](screenshots/eda/Age_Distribution.png)
+   ![Age Distribution](Titanic_Survival_Predictor/screenshots/eda/Age_Distribution.png)
 
 5. **Embarked Port Analysis**  
 
-   ![Passengers by Port](screenshots/eda/Passengers_by_Port.png)  
-   ![Survival by Port](screenshots/eda/Survival_by_Embarked.png)
+   ![Passengers by Port](Titanic_Survival_Predictor/screenshots/eda/Embarked_Port_Counts.png)  
+   ![Survival by Port](Titanic_Survival_Predictor/screenshots/eda/Survival_Rate_by_Embarked.png)
 
 6. **Family and Fare Analysis**  
 
