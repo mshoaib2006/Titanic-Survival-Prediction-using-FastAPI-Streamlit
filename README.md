@@ -110,7 +110,13 @@ Model Performance
 
 The trained model achieves 83% accuracy on the test dataset. 
 
+Model Performance
 
+The trained model achieves 83% accuracy on the test dataset. Key metrics:
+
+Class	Precision	Recall	F1-Score	Support
+0	0.84	0.88	0.86	105
+1	0.81	0.76	0.78	74
 
 Overall Metrics:
 
@@ -121,3 +127,11 @@ Macro Average: Precision = 0.82, Recall = 0.82, F1-Score = 0.82
 Weighted Average: Precision = 0.83, Recall = 0.83, F1-Score = 0.83
 
 The model demonstrates reliable performance in predicting passenger survival, with slightly better results for Class 0.
+
+API Usage
+
+The project includes a FastAPI backend to serve real-time predictions.
+
+Start the FastAPI server:
+
+uvicorn app:app --reload
