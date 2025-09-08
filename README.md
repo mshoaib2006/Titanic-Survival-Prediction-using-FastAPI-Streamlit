@@ -143,29 +143,29 @@ The project includes a **Streamlit-based frontend** for an interactive Titanic S
 - Titanic_Survival_Prediction/
 - │
 - ├── .vscode/
--│
--├── api/
--│   ├── __pycache__/
--│   ├── app.py
--│   └── requirements.txt
--│
--├── data/
--│   ├── gender_submission.csv
--│   ├── model.pkl
--│   ├── test.csv
--│   ├── titanic_eda.ipynb
--│   └── train.csv
--│
--├── frontend/
--│   └── main.py
--│
--├── screenshots/
--│   ├── api_response/
--│   ├── eda/
--│   ├── prediction_result/
--│   └── streamlit_form/
--│
--└── README.md
+- │
+- ├── api/
+- │   ├── __pycache__/
+- │   ├── app.py
+- │   └── requirements.txt
+- │
+- ├── data/
+- │   ├── gender_submission.csv
+- │   ├── model.pkl
+   │   ├── test.csv
+- │   ├── titanic_eda.ipynb
+- │   └── train.csv
+- │
+- ├── frontend/
+- │   └── main.py
+- │
+- ├── screenshots/
+- │   ├── api_response/
+   │   ├── eda/
+- │   ├── prediction_result/
+- │   └── streamlit_form/
+- │
+- └── README.md
 
 
 ---
