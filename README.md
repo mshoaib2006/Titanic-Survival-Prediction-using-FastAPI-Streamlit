@@ -121,8 +121,13 @@ The backend is built with **FastAPI**, providing RESTful endpoints for Titanic s
 ## Streamlit App Usage
 
 The project includes a **Streamlit-based frontend** for an interactive Titanic Survival Predictor. 
+
+
+
 **Streamlit frontend**  
 ![Streamlit App Usage](Titanic_Survival_Predictor/screenshots/streamlit_form/2025-09-08_11-54.png)
+
+
 
 **Streamlit Prediction**  
 ![Streamlit App Usage](Titanic_Survival_Predictor/screenshots/streamlit_form/2025-09-08_11-55_1.png)
