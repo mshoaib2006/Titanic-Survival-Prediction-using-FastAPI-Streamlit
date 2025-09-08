@@ -16,7 +16,7 @@ A machine learning project that predicts whether a passenger would have survived
 - [API Usage](#api-usage)  
 - [Streamlit App Usage](#streamlit-app-usage)  
 - [Project Structure](#project-structure)  
-- [Future Improvements](#future-improvements)
+
 
 ---
 
