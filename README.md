@@ -104,3 +104,10 @@ The trained model achieves:
 
 Accuracy: 83%
 
+---
+
+## Model Performance
+
+The model achieves 83% accuracy on the test set
+
+---
