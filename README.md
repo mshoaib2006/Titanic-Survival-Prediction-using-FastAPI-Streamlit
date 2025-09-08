@@ -106,8 +106,18 @@ Accuracy: 83%
 
 ---
 
-## Model Performance
+Model Performance
 
-The model achieves 83% accuracy on the test set
+The trained model achieves 83% accuracy on the test dataset. 
 
----
+
+
+Overall Metrics:
+
+Accuracy: 0.83
+
+Macro Average: Precision = 0.82, Recall = 0.82, F1-Score = 0.82
+
+Weighted Average: Precision = 0.83, Recall = 0.83, F1-Score = 0.83
+
+The model demonstrates reliable performance in predicting passenger survival, with slightly better results for Class 0.
