@@ -109,3 +109,14 @@ The trained Random Forest model achieved an **accuracy of 83%** on the test set.
 
 ---
 
+## API Usage
+
+The backend is built with **FastAPI**, providing RESTful endpoints for Titanic survival prediction.
+
+1. **API Usage**  
+
+   ![API Usage](Titanic_Survival_Predictor/screenshots/api_response/2025-09-08_11-48.png)
+
+
+
+---
