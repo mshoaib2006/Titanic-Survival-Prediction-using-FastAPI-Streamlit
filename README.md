@@ -102,26 +102,10 @@ y_pred = model.predict(X_test)
 ## Model Performance
 
 The trained model achieves:
-
 Accuracy: 83%
 
-Precision:
+The trained Random Forest model achieved an **accuracy of 83%** on the test set. 
 
-Class 0 → 0.84
-
-Class 1 → 0.81
-
-Recall:
-
-Class 0 → 0.88
-
-Class 1 → 0.76
-
-F1-Score:
-
-Class 0 → 0.86
-
-Class 1 → 0.78
 
 ---
 
