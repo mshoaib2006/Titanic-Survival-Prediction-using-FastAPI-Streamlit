@@ -47,7 +47,7 @@ Key visualizations and insights:
 
 1. **Passenger Gender Distribution**  
 
-   ![Gender Distribution](screenshots/eda/Total_Passengers_by_Gender.png)
+   ![Gender Distribution](Titanic_Survival_Predictor/screenshots/eda/gender_distribution.png)
 
 2. **Survival Distribution**  
 
