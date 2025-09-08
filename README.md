@@ -98,40 +98,26 @@ Key transformations:
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 
-Model Performance
+## Model Performance
 
 The trained model achieves:
 
-Accuracy: 83%
+- **Accuracy:** 83%  
 
----
+- **Precision:**  
+  - Class 0 → 0.84  
+  - Class 1 → 0.81  
 
-Model Performance
+- **Recall:**  
+  - Class 0 → 0.88  
+  - Class 1 → 0.76  
 
-The trained model achieves 83% accuracy on the test dataset. 
+- **F1-Score:**  
+  - Class 0 → 0.86  
+  - Class 1 → 0.78
 
-Model Performance
 
-The trained model achieves 83% accuracy on the test dataset. Key metrics:
 
-Class	Precision	Recall	F1-Score	Support
-0	0.84	0.88	0.86	105
-1	0.81	0.76	0.78	74
 
-Overall Metrics:
 
-Accuracy: 0.83
 
-Macro Average: Precision = 0.82, Recall = 0.82, F1-Score = 0.82
-
-Weighted Average: Precision = 0.83, Recall = 0.83, F1-Score = 0.83
-
-The model demonstrates reliable performance in predicting passenger survival, with slightly better results for Class 0.
-
-API Usage
-
-The project includes a FastAPI backend to serve real-time predictions.
-
-Start the FastAPI server:
-
-uvicorn app:app --reload
