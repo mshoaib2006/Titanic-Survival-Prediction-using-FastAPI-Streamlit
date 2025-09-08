@@ -145,7 +145,7 @@ The project includes a **Streamlit-based frontend** for an interactive Titanic S
 - ├── .vscode/
 - │
 - ├── api/
-- │   ├── __pycache__/
+- │   ├── __pycache__
 - │   ├── app.py
 - │   └── requirements.txt
 - │
@@ -160,10 +160,10 @@ The project includes a **Streamlit-based frontend** for an interactive Titanic S
 - │   └── main.py
 - │
 - ├── screenshots/
-- │   ├── api_response/
-- │   ├── eda/
-- │   ├── prediction_result/
-- │   └── streamlit_form/
+- │   ├── api_response
+- │   ├── eda
+- │   ├── prediction_result
+- │   └── streamlit_form
 - │
 - └── README.md
 
