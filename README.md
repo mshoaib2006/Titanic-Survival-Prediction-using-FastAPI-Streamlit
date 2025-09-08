@@ -152,8 +152,8 @@ The project includes a **Streamlit-based frontend** for an interactive Titanic S
 - ├── data/
 - │   ├── gender_submission.csv
 - │   ├── model.pkl
-   │   ├── test.csv
-- │   ├── titanic_eda.ipynb
+- │  ├── test.csv
+- │  ├── titanic_eda.ipynb
 - │   └── train.csv
 - │
 - ├── frontend/
@@ -161,7 +161,7 @@ The project includes a **Streamlit-based frontend** for an interactive Titanic S
 - │
 - ├── screenshots/
 - │   ├── api_response/
-   │   ├── eda/
+- │   ├── eda/
 - │   ├── prediction_result/
 - │   └── streamlit_form/
 - │
