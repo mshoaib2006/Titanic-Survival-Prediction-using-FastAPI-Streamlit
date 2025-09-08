@@ -140,9 +140,9 @@ The project includes a **Streamlit-based frontend** for an interactive Titanic S
 
 ## Project Structure
 
--Titanic_Survival_Prediction/
--│
--├── .vscode/
+- Titanic_Survival_Prediction/
+- │
+- ├── .vscode/
 -│
 -├── api/
 -│   ├── __pycache__/
