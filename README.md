@@ -97,3 +97,10 @@ Key transformations:
 ```python
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
+
+Model Performance
+
+The trained model achieves:
+
+Accuracy: 83%
+
